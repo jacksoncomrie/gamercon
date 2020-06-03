@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand&display=swap');	
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+
+* { box-sizing: border-box; }
+
+.fa-gamepad{
+  font-size:50px;
+  color:rgb(52, 255, 41);
+  
+  }
+.header{
+  font-size:100px;
+  color:yellow;
+	
+font-family:'Oswald';
+  
+}
+
+header {
+  text-align:center;
+  background-image:url('tickets.jpg');
+  border: 2px dashed red;
+}
+body{
+background-color:rgba(0,0,0,0.00);
+}
+
+.fa-smile{
+	color:#FFD600;
+}
+
+article{
+	text-align: center;
+	
+	width:800px;
+	margin-left: 700px;
+	margin-top: 400px;
+	background-color: #FFFFFF;
+	color:#398BFF;
+	border
+}
+
+body{
+	background-image: url('sponsor.jpg');
+}
+
+  
+  
+  display:block;
+  text-align:center;
+}
+footer > ul {
+  display: inline-block;
+	font-size: 20px;
+}
+
+footer > ul > li {
+  padding:10px;
+  display: inline-block;
+  font-size: 20px;
+}
+
+footer > ul > li > a {
+  color:rgb(255, 112, 0)
+	  font-size: 20px;
+}
+footer { 
+  background-color: rgb(75, 75, 75);
+  color: white;
+  text-align: center;
+  display:block;
+  text-align:center;
+
+}
+
+footer > ul {
+  display: inline-block;
+}
+
+footer > ul > li {
+  padding:10px;
+  display: inline-block;
+  
+}
+
+footer > ul > li > a {
+  color:rgb(255, 112, 0)
+}

@@ -1,0 +1,127 @@
+ @import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand&display=swap');	
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+* { box-sizing: border-box; }
+
+.fa-gamepad{
+  font-size:50px;
+  color:rgb(52, 255, 41);
+  
+  }
+.header{
+  font-size:100px;
+  color:yellow;
+	font-family:'Oswald';
+  
+}
+
+header {
+  text-align:center;
+  background-image:url('tickets.jpg');
+  border: 2px dashed red;
+}
+
+ul > li > ul { display: none; }
+ul > li:hover > ul { display: block; }
+
+li{
+  font-size:50px;
+  text-decoration:none;
+}
+
+.dropdown{
+  font-size:30px;
+	color:red;
+	margin-left: 50px;
+  
+}
+
+.dropdown > a{ 
+  text-decoration:none;
+  color:blue;  
+	
+}
+
+article{
+  margin-right:10px;
+  margin-left:1300px;	
+  width:600px;
+  border:1px solid black;
+  padding:10px;
+  font-size:40px;
+  background-color:rgba(255,10,10,0.5);
+	font-family: 'Patrick Hand', cursive;
+}
+
+
+footer { 
+  background-color: rgb(75, 75, 75);
+  color: white;
+  text-align: center;
+  display:block;
+  text-align:center;
+
+}
+
+footer > ul {
+  display: inline-block;
+}
+
+footer > ul > li {
+  padding:10px;
+  display: inline-block;
+  
+}
+
+footer > ul > li > a {
+  color:rgb(255, 112, 0)
+}
+
+
+body{
+background-color:rgb(184, 191, 194);
+}
+
+.buy{
+	font-size: 30px;
+	font-family:monospace;
+	
+}
+
+.buy > a{
+	color: #FF7600;
+	text-decoration: none;
+}
+
+
+.change{
+	padding-top:50px;
+	font-family: 'Righteous', cursive;
+}
+
+
+}
+.hate{
+	background-color: rgb(75, 75, 75);
+	font-size: 20px;
+}
+  
+  
+  display:block;
+  text-align:center;
+}
+footer > ul {
+  display: inline-block;
+	font-size: 20px;
+}
+
+footer > ul > li {
+  padding:10px;
+  display: inline-block;
+  font-size: 20px;
+}
+
+footer > ul > li > a {
+  color:rgb(255, 112, 0)
+	  font-size: 20px;
+}

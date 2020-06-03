@@ -1,0 +1,19 @@
+ { box-sizing: border-box; }
+
+.fa-gamepad{
+  font-size:50px;
+  color:rgb(52, 255, 41);
+  
+  }
+.header{
+  font-size:100px;
+  color:yellow;
+  
+}
+
+header {
+  text-align:center;
+  background-image:url('tickets.jpg');
+  border: 2px dashed red;
+}
+1
